@@ -8,9 +8,11 @@ This is a research-oriented repository for **probability distribution function (
 
 **Includes:**
 
-TensorFlow function for Histogram Density Estimation (tHDE)
-TensorFlow function for Kernel Density Estimation (tKDE)
-TensorFlow function for Dual Polynomial Regression - Based Probability Density Estimation (DPR)
+- TensorFlow function for Histogram Density Estimation (tHDE)
+
+- TensorFlow function for Kernel Density Estimation (tKDE)
+
+- TensorFlow function for Dual Polynomial Regression - Based Probability Density Estimation (DPR)
 
 ---
 
@@ -64,6 +66,9 @@ ProbFunc
 - NumPy version: 1.22.3+
 - TensorFlow version: 2.11.0+
 - SciPy version: 1.10.0+
+- Panda version: 1.5.2
+- MathplotLib version: 3.6.2
+- seaborn version: 0.13.2
 Install dependencies with:  
 ```bash
 pip install -r requirements.txt

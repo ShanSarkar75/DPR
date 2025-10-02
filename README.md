@@ -110,7 +110,7 @@ If you use this code or the data in your research, please cite our preprint:
 
 Shantanu Sarkar, Mousumi Sinha, and Dexter Cahoy.
 A Benchmark Study of Classical and Dual Polynomial Regression (DPR)-Based Probability Density Estimation Techniques.
-Preprint, Electronic Journal of Statistics.
+Preprint, Computational Statistics (Springer Nature). Manuscript under review
 
 For any use of the real patient systolic and diastolic data, please also cite Epic Systems Corporation:
 
